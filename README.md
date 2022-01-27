@@ -1,4 +1,4 @@
-#MavenMCP 1.8.9
+# MavenMCP 1.8.9
 
 ### About
 Maven MCP 1.8.9 is an updated version of MCP. It uses Maven, has a clean code structure, supports Linux and version control in your projects!
